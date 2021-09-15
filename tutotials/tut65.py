@@ -50,16 +50,3 @@ print(a.classvar1, a.var1)
 print(b.classvar1, b.var1)
 print(a.classvar1, b.var1)
 print(b.classvar1, a.var1)
-
-
-
-
-
-
-
-
-
-
-
-
-
